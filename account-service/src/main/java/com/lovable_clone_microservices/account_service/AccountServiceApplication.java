@@ -1,5 +1,6 @@
 package com.lovable_clone_microservices.account_service;
 
+import com.lovable_clone_microservices.common_library.error.GlobalExceptionHandler;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

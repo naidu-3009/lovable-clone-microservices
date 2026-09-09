@@ -1,0 +1,2 @@
+com.lovable_clone_microservices.common_library.error.SharedExceptionAutoConfiguration
+com.lovable_clone_microservices.common_library.security.SharedSecurityAutoConfiguration
